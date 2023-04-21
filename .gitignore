@@ -1,0 +1,7 @@
+# Django #
+*.log
+*.pot
+*.pyc
+_pycache_
+db.sqlite3
+media
